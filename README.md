@@ -18,7 +18,7 @@ I have been learning programming for 2 years
 - Frontend - a 6-month online course at Udemy.pl 
 - Complete Agile Scrum Management + Kanban 
 
-Badges 
+## Badges 
 ✅ AgilePM Fundation - AMPG International
 ✅ ISTQB Certified Tester - GASQ
 
