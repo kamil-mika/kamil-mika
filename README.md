@@ -19,8 +19,8 @@ I have been learning programming for 2 years
 - Complete Agile Scrum Management + Kanban 
 
 ## Badges 
-✅ AgilePM Fundation - AMPG International
-✅ ISTQB Certified Tester - GASQ
+- ✅ AgilePM Fundation - AMPG International
+- ✅ ISTQB Certified Tester - GASQ
 
 
 ## The project I am currently working on
