@@ -14,11 +14,13 @@ I am a student of Computer Science in Business, open to knowledge, ready for new
 ## 
 I have been learning programming for 2 years
 
-- Frontend - a 6-month online course at DEVSTYLE
 - Algorithms, databases (SQL), UML object-oriented analysis and design - academic knowledge
-- HTML,CSS,JS  - a 4-month online course at Udemy.pl 
+- Frontend - a 6-month online course at Udemy.pl 
+- Complete Agile Scrum Management + Kanban 
 
-I have knowledge in the field of testing (ISTQB) and AGILE software development confirmed by certificates.
+Badges 
+✅ AgilePM Fundation - AMPG International
+✅ ISTQB Certified Tester - GASQ
 
 
 ## The project I am currently working on
