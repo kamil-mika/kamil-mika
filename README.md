@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub!
 
-Currently, I work in the IT industry as a Web Developer.
+Currently, I am working in the IT industry as a Web Developer.
 
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ I have been learning programming for 2 years
 - Frontend - a 6-month online course at Udemy.pl 
 - Complete Agile Scrum Management + Kanban 
 
-## Badges 
+## Certificates 
 - ✅ AgilePM Fundation - AMPG International
 - ✅ ISTQB Certified Tester - GASQ
 
