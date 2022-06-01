@@ -23,10 +23,6 @@ I have been learning programming for 2 years
 - ✅ ISTQB Certified Tester - GASQ
 
 
-## The project I am currently working on
-Business Card Website for the gardening industry: https://koniecznyogrody.pl/
-
-
 ## 📫 How to reach me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamil-mika-38a825194/)
 
